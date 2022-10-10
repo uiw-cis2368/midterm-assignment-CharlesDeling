@@ -1,0 +1,99 @@
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 550px;
+    height: 700px;
+}
+
+.hero-image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 550px;
+    height: 700px;
+    border-style: solid;
+    margin-top: 35px;
+}
+
+.card1 {
+    margin-left: 100px;
+    margin-right: auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.card2 {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.card3 {
+    margin-left: auto;
+    margin-right: 100px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.hero-text {
+    font-size: x-large;
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    text-align: center;
+}
+
+.navbar-brand {
+    font-size: xx-large;
+}
+
+.hobby-cont {
+    margin-top: 50px;
+}
+
+.card-body {
+    font-size: large;
+    text-align: center;
+}
+
+.gaming-cont {
+    font-size: large;
+    text-align: center;
+}
+
+.warhammer-cont {
+    font-size: large;
+    text-align: center;
+}
+
+.music-cont {
+    font-size: large;
+    text-align: center;
+}
+
+.header {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    text-align: center;
+    border-style: solid;
+    background-color: #0404c9;
+}
+
+.container-fluid {
+    background-color: #0404c9;
+    border-style: solid;
+}
+
+.subhead {
+    border-style: solid;
+    display: inline;
+    background-color: #0404c9;
+}
+
+.hobby-info {
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
